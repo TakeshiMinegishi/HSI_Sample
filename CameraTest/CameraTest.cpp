@@ -1,8 +1,6 @@
 ﻿// CameraTest.cpp : このファイルには 'main' 関数が含まれています。プログラム実行の開始と終了がそこで行われます。
 //
 
-// feature_#2用にこの行を追加してみた
-
 #include <stdio.h>
 
 #include "snapscan_api.h"
