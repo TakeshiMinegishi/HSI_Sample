@@ -2,6 +2,7 @@
 //
 
 // feature_#1用にこの行を追加してみた
+// feature_#1用にもう1行追加
 
 #include <stdio.h>
 
