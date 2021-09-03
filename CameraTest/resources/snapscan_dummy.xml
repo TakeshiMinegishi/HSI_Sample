@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snapscan_system_description version="1">
+    <system_id>dummy</system_id>
+    <camera_type>ximea</camera_type>
+    <camera_board_id>-1</camera_board_id>
+    <translation_stage_id>-1</translation_stage_id>
+    <sensor_calibration_file>CMV2K-LS150-470_900-11.5.5.8.xml</sensor_calibration_file>
+</snapscan_system_description>
